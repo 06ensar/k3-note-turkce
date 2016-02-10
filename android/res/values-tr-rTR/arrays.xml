@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<Kaynak>
     <integer-array name="maps_starting_lat_lng">
         <item>41034435</item>
         <item>28977556</item>
     </integer-array>
-    <integer-array name="maps_starting_zoom">
+    <integer-array name="Başlangıç_haritaları_yakınlaştırın">
         <item>3</item>
     </integer-array>
-</resources>
+</Kaynak>
